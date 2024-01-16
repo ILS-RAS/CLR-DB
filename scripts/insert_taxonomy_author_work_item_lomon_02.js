@@ -1,0 +1,3 @@
+db.taxonomymodel.insertOne({ "code": "Lomon. Paneg. Elisab.", "desc": "Panegyricus Elisabetae Augustae Russiarum Imperatrici patrio sermone dictus orante Michaele Lomonosow. Latine redditus eodem auctore", "parentId": ObjectId("5fff6e9258d88145a0a8ba19") });
+db.taxonomymodel.insertOne({ "code": "Lomon. Or. de ut. chem.", "desc": "Слово о пользе химии", "parentId": ObjectId("5fff6e9258d88145a0a8ba19") });
+db.taxonomymodel.insertOne({ "code": "Lomon. Or. de orig. luc.", "desc": "Слово о происхождении света, новую теорию о цветах представляющее", "parentId": ObjectId("5fff6e9258d88145a0a8ba19") });
