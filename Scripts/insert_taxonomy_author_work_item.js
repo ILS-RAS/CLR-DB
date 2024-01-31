@@ -1,1 +1,1 @@
-db.taxonomymodel.insertOne({ "code": "Sal. Cat.", "desc": "C. Sallusti Crispi. Catilina", "parentId": ObjectId("5fff6e9258d88145a0a8ba19") });
+db.taxonomymodel.insertOne({ "code": "Cat. Dist.", "desc": "Disticha Catonis", "parentId": ObjectId("5fff6e9258d88145a0a8ba19") });
